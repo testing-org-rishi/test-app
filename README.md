@@ -2,3 +2,4 @@
 Test application for GitHub integration
 New feature
 New feature
+New feature
